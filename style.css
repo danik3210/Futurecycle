@@ -707,7 +707,7 @@ p {
 
 .partner-tile img {
   max-width: 240px;
-  max-height: 95px;
+  max-height: 135px;
   width: auto;
   height: auto;
   object-fit: contain;
@@ -739,8 +739,8 @@ p {
 }
 
 .partner-tile img {
-  max-width: 260px !important;
-  max-height: 105px !important;
+  max-width: 350px !important;
+  max-height: 155px !important;
   width: auto;
   height: auto;
   object-fit: contain;
